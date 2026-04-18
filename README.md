@@ -1,26 +1,94 @@
-![logo](https://github.com/abhishekrally/abhishekrally/blob/main/Untitled.png)
-<h1 align="center">Hi 👋, I'm Abhishek rally</h1>
-<h3 align="center">A passionate full-stack developer/software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h1 align="center">Hi 👋, I'm Abhishek Rally</h1>
+<h3 align="center">🚀 Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
 
-- 🌱 I’m currently learning **Next.js, Advanced Data Structures**
-
-- 👯 I’m looking to collaborate on **Open-source full-stack projects, scalable web apps, or API development**
-
-- 📫 How to reach me **abhishekrally002@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oLsq4QB-Dd58v55DfF7vRZz5EyoqCLPR/view?usp=sharing](https://drive.google.com/file/d/1oLsq4QB-Dd58v55DfF7vRZz5EyoqCLPR/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abhishekrally/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhishekrally/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27605610/abhishek-rally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27605610/abhishek-rally" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/abhishekrally002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhishekrally002/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/PHMNliqrrAsOgkWi90Fwhg1NfmpDbN03Bw96ZkTvW8Y/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL3RfZXhw/cmVzcy1qczIxMTku/bG9nb3dpay5jb20u/d2VicA" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/aBKPjsiNCTGjassph0gAVVeynZE8DpVzqCCVtk1J330/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL25leHRq/czc2ODUubG9nb3dp/ay5jb20ud2VicA" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrally&show_icons=true&locale=en&layout=compact" alt="abhishekrally" /></p>
+## 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekrally&show_icons=true&locale=en" alt="abhishekrally" /></p>
+- 🎓 B.Tech Graduate passionate about building **real-world scalable applications**
+- 💻 Strong in **Full-Stack Development + Data Structures**
+- 🤖 Exploring **AI, LLMs, and GenAI-based systems**
+- ⚡ I focus on building **projects that solve real problems (not just CRUD apps)**
+
+---
+
+## 🚀 Projects (What actually matters)
+
+### 🧠 AI Interview System
+- AI-powered mock interviewer with real-time feedback  
+- Uses **speech-to-text + evaluation logic**
+- Goal: simulate real interview experience  
+
+### 🛒 E-commerce Platform
+- Built with **Next.js + MongoDB**
+- Features:
+  - Advanced filtering & search (debounced)
+  - Shopping cart system
+  - Scalable backend APIs
+
+### 🏫 University Management System
+- Built using **C++ + MySQL**
+- Features:
+  - Role-Based Access Control (Admin / Faculty / Student)
+  - Secure authentication (hashed passwords)
+  - Real-world system design
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`C++` `C` `JavaScript`
+
+### 🌐 Frontend
+`React.js` `Next.js` `Tailwind CSS`
+
+### ⚙️ Backend
+`Node.js` `Express.js`
+
+### 🗄️ Database
+`MongoDB` `MySQL`
+
+### 🧠 Concepts
+`DSA` `OOP` `DBMS` `REST APIs` `JWT Auth`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekrally&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekrally&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/abhishekrally">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/abhishekrally002/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+</p>
+
+---
+
+## 📫 Contact
+
+📧 **abhishekrally002@gmail.com**
+
+---
+
+## ⚡ Fun Fact
+
+> I don’t just build projects — I build systems that can scale and solve real problems.
